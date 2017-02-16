@@ -59,7 +59,8 @@ February 16, 2017
  - Range method.
  - Normalized Gini Index.
  - Coefficient of Variation and McLoone Index. 
-## Research questions
+ 
+##  Research questions
 
 - Multiple years data sets available.
 

@@ -84,7 +84,8 @@ plot(m2)
  - Range method.
  - Normalized Gini Index.
  - Coefficient of Variation and McLoone Index. 
-## Research questions
+ 
+##  Research questions
 
 - Multiple years data sets available.
 
