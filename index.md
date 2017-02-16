@@ -57,7 +57,8 @@ February 16, 2017
 ## Analysis
 
  - Range method.
- - Normalized Gini Index.
+- Normalized Gini Index.
+   <http://mathworld.wolfram.com/GiniCoefficient.html>.
  - Coefficient of Variation and McLoone Index. 
  
 ##  Research questions
