@@ -61,8 +61,7 @@ February 16, 2017
  - Coefficient of Variation and McLoone Index. 
  
 ##  Research questions
-
-- Multiple years data sets available.
+ - Multiple years data sets available.
 
 
 

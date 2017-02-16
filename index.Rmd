@@ -86,8 +86,7 @@ plot(m2)
  - Coefficient of Variation and McLoone Index. 
  
 ##  Research questions
-
-- Multiple years data sets available.
+ - Multiple years data sets available.
 
 
 
