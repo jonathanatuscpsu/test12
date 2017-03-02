@@ -5,7 +5,7 @@ February 16, 2017
 
 
 
-
+# Project 1
 ## Background
 
 - Public schools, K-12, aggregated in terms of 500 districts and 27 counties in Pennsylvania, respectively. 
@@ -57,12 +57,11 @@ February 16, 2017
 ## Analysis
 
  - Range method.
-- Normalized Gini Index.
-   <http://mathworld.wolfram.com/GiniCoefficient.html>.
+ - Normalized Gini Index.
  - Coefficient of Variation and McLoone Index. 
- 
-##  Research questions
- - Multiple years data sets available.
+## Research questions
+
+- Multiple years data sets available.
 
 
 

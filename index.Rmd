@@ -22,7 +22,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 
-
+# Project 1
 ## Background
 
 - Public schools, K-12, aggregated in terms of 500 districts and 27 counties in Pennsylvania, respectively. 
@@ -82,12 +82,11 @@ plot(m2)
 ## Analysis
 
  - Range method.
-- Normalized Gini Index.
-   <http://mathworld.wolfram.com/GiniCoefficient.html>.
+ - Normalized Gini Index.
  - Coefficient of Variation and McLoone Index. 
- 
-##  Research questions
- - Multiple years data sets available.
+## Research questions
+
+- Multiple years data sets available.
 
 
 
