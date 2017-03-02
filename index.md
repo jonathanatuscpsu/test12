@@ -1,11 +1,11 @@
 # Stat 581
-Keon Kim, Agnes Ge and Zhaohu(Jonathan) Fan  
+Zhaohu(Jonathan) Fan  
 February 16, 2017  
 
 
 
 
-# Project 1
+# Project 1  with Keon Kim and Agnes Ge 
 ## Background
 
 - Public schools, K-12, aggregated in terms of 500 districts and 27 counties in Pennsylvania, respectively. 
@@ -58,33 +58,82 @@ February 16, 2017
 
  - Range method.
  - Normalized Gini Index.
- - Coefficient of Variation and McLoone Index. 
+ - Coefficient of Variation and McLoone Index
+
+
+ 
 ## Research questions
 
 - Multiple years data sets available.
 
 
-# Project 2
+# Project 2 with Wanjun Liu
 
-## Department: Graduate student from food science.
+## Background
+Our client, Molly, a graduate student from food science department, wants to learn of color-taste pairings. The pupose of her visit is to find a proper criteria for learning based on the probability of matching the stimuli to the correct color. To be more specific, she is interested in finding relationships between learning and gender, age, etc. and find ways to visually represent her data.
 
-Background Information:
-Our client, Molly, wants to learn of color-taste pairings. The pupose of her visit is to find a proper criteria for learning based on the probability of matching the stimuli to the correct color. To be more specific, she is interested in finding relationships between learning and gender, age, etc. and find ways to visually represent her data.
 
-sucrose 
-
-## Research Goals:
-
+## Research Goals
 She has two major research questions:
-### To find a criteria to distinguish  between learner and non-learner.
-### To explore the relationships between learning and gender, age, etc.
-### How does the probability of 'matching' change during the test. 
+
+- To find a criteria to distinguish  between learner and non-learner.
+- To explore the relationships between learning and gender, age, etc.
+- How does the probability of 'matching' change during the test. 
 
 ##  More Details:
-1) Detailed about the experiments:
- 1.1 In her first experiments, there were four compounds: 1) caffeine; 2) tetralone; 3) quinine 4) sucrose.
-The first three compounds represent the tastes of bitter, and the last compound tastes as sweet. And each taste was assigned a unique color, such as red, blue,etc.
+ Detailed about the experiments:
 
- 1.2 With the similar setting for her second experiment, there were four compounds corresponding to the four different tastes: 1) bitter,2) sour, 3) sweet and 4) umami. Each compounds was assigned a unique color, respectively. In the first five days, subjects were given taste samples with certain color, and they learned which color matches with which taste. At the end of the experiment, subjects were randomly assigned sample tastes, and they would find the corresponding colors for those compounds based on their first five days' learning. 
+1) In her first experiments, there were four compounds:
+  - 1) caffeine;
+  - 2) [tetralone](https://en.wikipedia.org/wiki/Tetralone)
+  - 3) [quinine](https://en.wikipedia.org/wiki/Quinine) 
+  - 4) [sucrose](https://en.wikipedia.org/wiki/Sucrose).
+  
+  
+The first three compounds represent the tastes of bitter, and the last compound sweet. And each taste was assigned a unique color, such as red, blue,etc.
 
-# Project 3
+2) With the similar setting for her second experiment, there were four compounds corresponding to the four different tastes:
+ - 1) bitter
+ - 2) sour
+ - 3) sweet 
+ - 4) umami
+
+Each compounds was assigned a unique color, respectively. In the first five days, subjects were given sample tastes with certain color, and they learned which color matches with which taste. At the end of the experiment, subjects were randomly assigned sample tastes, and they would find the corresponding colors for those compounds based on their first five days' learning. 
+
+# Project 3 with  Agnes Ge 
+
+
+## Background
+
+Our client, Moji, a graduate school from Recreation, Park, and Tourism Management, wants to build up a conceptual framework for exploring relationships among variables as follows:
+
+  - 1) satisfaction with joint leisure actions 
+  - 2) communication 
+  - 3) mindful
+  - 4) marital function 
+  - 5) well-being, etc. 
+
+He plans to implement an structural equation modeling [SEM](https://en.wikipedia.org/wiki/Structural_equation_modeling). SEM is a commonly justified model in the social sciences, which imputes relationships between unobserved constructs (latent variables) from observable variables.  However, it seems to be challenges for him to understand how to apply the proposed  model to his case.
+
+
+## Research Goals
+He has two major research questions:
+
+- To determine which a minimum sample size he would need for his model, although he has limited knowledge of modelling at this point.
+
+- To determine which models would be suitable for his questionnaire.
+
+## More Details:
+
+Detailed about variables: 
+
+  - 1) Satisfaction with joint leisure actions
+  - 2) communication with ten questions at scale of 1 to 5. 
+  - 3) mindful with fifteen questions at scale of 1 to 6.
+  - 4) marital function with five questions at scale of 1 to 3. 
+  - 5) well-being with five questions at scale of 1 to 7. 
+
+According to our mutual discussion after the session, we think that a single linear regression model would be the first try and other alternative models. 
+
+
+
