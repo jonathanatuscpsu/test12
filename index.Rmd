@@ -89,4 +89,27 @@ plot(m2)
 - Multiple years data sets available.
 
 
+# Project 2
 
+## Department: Graduate student from food science.
+
+Background Information:
+Our client, Molly, wants to learn of color-taste pairings. The pupose of her visit is to find a proper criteria for learning based on the probability of matching the stimuli to the correct color. To be more specific, she is interested in finding relationships between learning and gender, age, etc. and find ways to visually represent her data.
+
+sucrose 
+
+## Research Goals:
+
+She has two major research questions:
+### To find a criteria to distinguish  between learner and non-learner.
+### To explore the relationships between learning and gender, age, etc.
+### How does the probability of 'matching' change during the test. 
+
+##  More Details:
+1) Detailed about the experiments:
+ 1.1 In her first experiments, there were four compounds: 1) caffeine; 2) tetralone; 3) quinine 4) sucrose.
+The first three compounds represent the tastes of bitter, and the last compound tastes as sweet. And each taste was assigned a unique color, such as red, blue,etc.
+
+ 1.2 With the similar setting for her second experiment, there were four compounds corresponding to the four different tastes: 1) bitter,2) sour, 3) sweet and 4) umami. Each compounds was assigned a unique color, respectively. In the first five days, subjects were given taste samples with certain color, and they learned which color matches with which taste. At the end of the experiment, subjects were randomly assigned sample tastes, and they would find the corresponding colors for those compounds based on their first five days' learning. 
+
+# Project 3
