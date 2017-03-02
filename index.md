@@ -1,25 +1,8 @@
----
-title: "Stat 581"
-subtitle: "Evaluation on Districts-based method and counties-based method"
-
-author: "Keon Kim, Agnes Ge and Zhaohu(Jonathan) Fan"
-date: "February 16, 2017"
+# Stat 581
+Keon Kim, Agnes Ge and Zhaohu(Jonathan) Fan  
+February 16, 2017  
 
 
-output:
-  html_document:
-    fig_height: 7
-    fig_width: 9
-    keep_md: yes
-    toc: yes
-    toc_float: yes
-  pdf_document:
-    toc: yes
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 
 # Project 1
@@ -67,17 +50,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ## Simulation
 - Districts-based method 
-```{r,echo = FALSE}
-m1<-rnorm(500,50,1)
-plot(m1)
-```
+![](index_files/figure-html/unnamed-chunk-1-1.png)<!-- -->
 - Counties-based method
-```{r,echo = FALSE}
-m2<-rnorm(27,60,2)
-
-plot(m2)
-
-```
+![](index_files/figure-html/unnamed-chunk-2-1.png)<!-- -->
 
 ## Analysis
 
