@@ -64,7 +64,6 @@ February 16, 2017
 - Multiple years data sets available.
 
 
-<<<<<<< HEAD
 # Project 2
 
 ## Department: Graduate student from food science.
@@ -89,6 +88,3 @@ The first three compounds represent the tastes of bitter, and the last compound 
  1.2 With the similar setting for her second experiment, there were four compounds corresponding to the four different tastes: 1) bitter,2) sour, 3) sweet and 4) umami. Each compounds was assigned a unique color, respectively. In the first five days, subjects were given taste samples with certain color, and they learned which color matches with which taste. At the end of the experiment, subjects were randomly assigned sample tastes, and they would find the corresponding colors for those compounds based on their first five days' learning. 
 
 # Project 3
-=======
-
->>>>>>> refs/remotes/origin/gh-pages
